@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile pic.jpg"
   name             : "Nicholas Harrison"
   pronouns         : "he/him"  
   bio              : "I am a PhD student at Oregon State University working under my advisor Dr. Elaine Cozzi using functional and harmonic analysis techniques to understand solutions to partial differential equations, particularly those arising from fluid mechanics."
