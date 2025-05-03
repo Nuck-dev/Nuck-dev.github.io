@@ -24,8 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nicholas Harrison"
-  pronouns         : "he/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "I am a PhD student at Oregon State University working under my advisor Dr. Elaine Cozzi using functional and harmonic analysis techniques to understand solutions to partial differential equations, particularly those arising from fluid mechanics."
+"
   location         : "Corvallis, OR"
   employer         : "Oregon State University"
   uri              : # URL
@@ -39,7 +40,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Nicholas-Harrison-14?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
